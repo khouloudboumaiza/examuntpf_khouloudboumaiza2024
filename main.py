@@ -6,3 +6,4 @@ if my_list:
 else:
   print ('liste vide')
 
+>>>>>>>>>>><
